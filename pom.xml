@@ -93,7 +93,7 @@
     -->
 
     <!-- Versioning for Platform -->
-    <version.xyz.block.web5>0.15.0-issue217-alpha-2</version.xyz.block.web5>
+    <version.xyz.block.web5>0.16.0-issue217-alpha-1</version.xyz.block.web5>
 
     <!-- Versioning for Dependencies -->
     <version.de.fxlae>0.2.0</version.de.fxlae>
